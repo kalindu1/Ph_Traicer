@@ -5,7 +5,7 @@ from phonenumbers import carrier
 from opencage.geocoder import OpenCageGeocode
 import os
 
-geocoder_key = "682ce60d3d18459a867fe0b7118ab9fe"
+geocoder_key = "your key"
 
 number = input("enter your number with country code :- ")
 
